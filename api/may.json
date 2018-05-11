@@ -1,17 +1,20 @@
 [
     {
-	"id": 1,
-	"total_calories": 0,
-	"total_price": 0,
-    },
-    {
-	"id": 2,
-	"total_calories": 0,
-	"total_price": 0,
-    },
-    {
 	"id": 3,
-	"total_calories": 0,
-	"total_price": 0,
+	"name": "march",
+	"days": 31,
+	"url": "api/march.json"
+    },
+    {
+	"id": 4,
+	"name": "april",
+	"days": 30,
+	"url": "api/april.json"
+    },
+    {
+	"id": 5,
+	"name": "may",
+	"days": 31,
+	"url": "api/may.json"
     }
 ]
