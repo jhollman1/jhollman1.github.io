@@ -2,16 +2,16 @@
     {
 	"id": 1,
 	"total_calories": 0,
-	"total_price": 0.00,
+	"total_price": 0,
     },
     {
 	"id": 2,
 	"total_calories": 0,
-	"total_price": 0.00,
+	"total_price": 0,
     },
     {
 	"id": 3,
 	"total_calories": 0,
-	"total_price": 0.00,
+	"total_price": 0,
     }
 ]
