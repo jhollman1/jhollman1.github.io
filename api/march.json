@@ -1,0 +1,98 @@
+[
+    {
+	id: 1,
+	total_calories: 0,
+	total_price: 0.00,
+	content: [
+	    {
+		"name": "donuts",
+		"calories": 910,
+		"price": .96
+	    },
+	    {
+		"name": "pizza",
+		"calories": 1120,
+		"price": 2.50
+	    },
+	    {
+		"name": "cereal",
+		"calories": 250,
+		"price": .23
+	    },
+	    {
+		"name": "sandwich",
+		"calories": 300,
+		"price": .52
+	    },
+	    {
+		"name": "beer",
+		"calories": 1472,
+		"price": 10.75
+	    }
+	]
+    },
+    {
+	id: 2,
+	total_calories: 0,
+	total_price: 0.00,
+	content: [
+	    {
+		"name": "donuts",
+		"calories": 350,
+		"price": .32
+	    },
+	    {
+		"name": "pizza",
+		"calories": 2160,
+		"price": 6.57
+	    },
+	    {
+		"name": "fries",
+		"calories": 660,
+		"price": .75
+	    },
+	    {
+		"name": "sandwich",
+		"calories": 300,
+		"price": .52
+	    },
+	    {
+		"name": "beer",
+		"calories": 540,
+		"price": 3.80
+	    }
+	]
+    },
+    {
+	id: 3,
+	total_calories: 0,
+	total_price: 0.00,
+	content: [
+	    {
+		"name": "tacos",
+		"calories": 1000,
+		"price": 5.00
+	    },
+	    {
+		"name": "cereal",
+		"calories": 300,
+		"price": .75
+	    },
+	    {
+		"name": "sandwich",
+		"calories": 600,
+		"price": 1.04
+	    },
+	    {
+		"name": "peanut butter",
+		"calories": 666,
+		"price": .42
+	    },
+	    {
+		"name": "beer",
+		"calories": 1647,
+		"price": 13.39
+	    }
+	]
+    }
+]
