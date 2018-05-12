@@ -7,7 +7,7 @@
 	    {
 		"name": "donuts",
 		"calories": 910,
-		"price": .96
+		"price": 0.96
 	    },
 	    {
 		"name": "pizza",
@@ -17,12 +17,12 @@
 	    {
 		"name": "cereal",
 		"calories": 250,
-		"price": .23
+		"price": 0.23
 	    },
 	    {
 		"name": "sandwich",
 		"calories": 300,
-		"price": .52
+		"price": 0.52
 	    },
 	    {
 		"name": "beer",
@@ -39,7 +39,7 @@
 	    {
 		"name": "donuts",
 		"calories": 350,
-		"price": .32
+		"price": 0.32
 	    },
 	    {
 		"name": "pizza",
@@ -49,12 +49,12 @@
 	    {
 		"name": "fries",
 		"calories": 660,
-		"price": .75
+		"price": 0.75
 	    },
 	    {
 		"name": "sandwich",
 		"calories": 300,
-		"price": .52
+		"price": 0.52
 	    },
 	    {
 		"name": "beer",
@@ -76,7 +76,7 @@
 	    {
 		"name": "cereal",
 		"calories": 300,
-		"price": .75
+		"price": 0.75
 	    },
 	    {
 		"name": "sandwich",
@@ -86,7 +86,7 @@
 	    {
 		"name": "peanut butter",
 		"calories": 666,
-		"price": .42
+		"price": 0.42
 	    },
 	    {
 		"name": "beer",
