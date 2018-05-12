@@ -1,19 +1,19 @@
 [
     {
 	"id": 1,
-	"total_price": 0.00,
+	"total_price": 0,
 	"total_calories": 0,
 	"name": "april"
     },
     {
 	"id": 2,
-	"total_price": 0.00,
+	"total_price": 0,
 	"total_calories": 0,
 	"name": "april"
     },
     {
 	"id": 3,
-	"total_price": 0.00,
+	"total_price": 0,
 	"total_calories": 0,
 	"name": "april"
     }
