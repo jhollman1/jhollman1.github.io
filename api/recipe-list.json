@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"url": "api/recipe-1.json",
+		"name": "Crockpot Enchiladas"
+	},
+	{
+		"id": 2,
+		"url": "api/recipe-2.json",
+		"name": "Crockpot Cheesy Brat Stew"
+	},
+	{
+		"id": 3,
+		"url": "api/recipe-3.json",
+		"name": "Crockpot Grape Jelly & BBQ Meatballs"
+	}
+]
